@@ -1,0 +1,20 @@
+.header{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.anything{
+    font-size: 18px;
+    color: black;
+}
+body{
+
+    background-color: cover;
+}
+#sn{
+    margin-top: px;
+    font-size: 30px;
+    color: blue;
+    border-radius: 130px;
+}
